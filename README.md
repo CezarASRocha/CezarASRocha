@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil meu perfil Cezar Rocha 😁
+## Bem-vindo(a) ao perfil meu perfil: Cezar Rocha 😁
 
  <div>
    <a href="https://github.com/CezarASRocha">
